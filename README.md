@@ -1,8 +1,6 @@
-# Nombre del Proyecto
+# Detector de fruites amb intel·ligència artificial
 
-![Logo del Proyecto](enlace-a-la-imagen-del-logo.png)
-
-Descripción concisa del proyecto.
+Aquest projecte utilitza tècniques d'intel·ligència artificial per detectar i classificar fruites, amb un enfocament específic en pomes, peres i mandarines. La implementació es basa en xarxes neuronals profundes per al processament d'imatges i aprenentatge automàtic.
 
 ## Tabla de Contenidos
 
@@ -18,13 +16,12 @@ Descripción concisa del proyecto.
 - Lista de características destacadas del proyecto.
 - Puedes agregar viñetas o resaltar características clave.
 
-## Capturas de Pantalla
+## Captures de Pantalla
 
 Inserta algunas capturas de pantalla para mostrar el aspecto y la funcionalidad del proyecto.
 
-## Instalación
+## Autors
+- Ferran Òdena
+- Gússem Yahia-Cheikh
 
-Proporciona pasos claros y concisos sobre cómo instalar y configurar el proyecto.
 
-```bash
-npm install
