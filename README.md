@@ -1,4 +1,30 @@
- practica_tr
- Aquest repositori inclou el codi sencer i tots els elements usats al llarg de aquesta part pràctica del Treball de Recerca.
+# Nombre del Proyecto
 
- Fet per Ferran Òdena i Gússem Yahia-Cheikh
+![Logo del Proyecto](enlace-a-la-imagen-del-logo.png)
+
+Descripción concisa del proyecto.
+
+## Tabla de Contenidos
+
+- [Características](#características)
+- [Capturas de Pantalla](#capturas-de-pantalla)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Contribución](#contribución)
+- [Licencia](#licencia)
+
+## Características
+
+- Lista de características destacadas del proyecto.
+- Puedes agregar viñetas o resaltar características clave.
+
+## Capturas de Pantalla
+
+Inserta algunas capturas de pantalla para mostrar el aspecto y la funcionalidad del proyecto.
+
+## Instalación
+
+Proporciona pasos claros y concisos sobre cómo instalar y configurar el proyecto.
+
+```bash
+npm install
