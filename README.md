@@ -1,4 +1,5 @@
 # Detector de fruites amb intel·ligència artificial
+> Treball de Recerca 2n de Batxillerat
 
 Aquest projecte utilitza tècniques d'intel·ligència artificial per detectar i classificar fruites, amb un enfocament específic en pomes, peres i mandarines. La implementació es basa en xarxes neuronals profundes per al processament d'imatges i aprenentatge automàtic.
 
